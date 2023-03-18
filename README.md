@@ -1,0 +1,1 @@
+# Not-Ortalamas-Hesaplayan-Program
